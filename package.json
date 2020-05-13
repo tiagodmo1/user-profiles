@@ -12,11 +12,25 @@
     "express": "~4.16.1",
     "express-flash": "0.0.2",
     "express-session": "^1.16.2",
-    "hbs": "~4.0.4",
+    "hbs": "^4.1.1",
     "http-errors": "~1.6.3",
+    "mongo": "^0.1.0",
     "mongodb": "^3.3.0-beta2",
     "morgan": "~1.9.1",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagodmo1/user-profiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagodmo1/user-profiles/issues"
+  },
+  "homepage": "https://github.com/tiagodmo1/user-profiles#readme",
+  "description": ""
 }
